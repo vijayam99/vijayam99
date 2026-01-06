@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Vijayam Gupta 👋
 
-<!--
-**vijayam99/vijayam99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Undergraduate** at **University at Albany (SUNY)**  
+Passionate about **Systems Programming, Compilers, Databases, and Full-Stack Development**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Technical Skills
+- **Languages:** Java, Python, C, SQL, JavaScript
+- **Core CS:** Data Structures, OS, DB Systems, Query Processing, Compilers
+- **Interpreter Design:** Lexing → Parsing → AST → Execution pipelines
+- **Testing & Validation:** JUnit, structured test harnesses
+- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code, Linux CLI
+
+---
+
+### 🚀 Featured Project
+📌 **Nusha Language Interpreter**  
+**Modular Java interpreter** for a custom academic programming language including:
+- Lexer & Token management
+- Syntax parser
+- Abstract Syntax Tree (AST) modeling
+- Execution pipeline
+- Automated validation using **JUnit test harness**
+
+🔗 Repo: **github.com/vijayam99/nusha-skeleton**
+
+---
+
+### 📫 Connect with Me
+- Email: **Vijayamhupta333@gmail.com**
+- GitHub: github.com/vijayam99
+
+---
+
+⭐ *Check out my pinned repositories below to see my best work!*
