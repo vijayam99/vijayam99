@@ -29,6 +29,7 @@ Passionate about **Systems Programming, Compilers, Databases, and Full-Stack Dev
 
 ### 📫 Connect with Me
 - Email: **Vijayamhupta333@gmail.com**
+- Student email: **Vgupta@albany.edu**
 - GitHub: github.com/vijayam99
 
 ---
